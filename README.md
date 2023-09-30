@@ -1,4 +1,7 @@
-![Static Badge](https://img.shields.io/badge/MainLanguages-C%2B%2B%20%26%20Python-red)
+![Static Badge](https://img.shields.io/badge/Main%20Languages%3A-red) ![Static Badge](https://img.shields.io/badge/C%23-green) ![Static Badge](https://img.shields.io/badge/Python-4584b6) ![Static Badge](https://img.shields.io/badge/C%2B%2B-FFC0CB)
+
+
+
 # Hi, I’m @DanielLMcGuire
 ## I’m interested in developing apps for my company.
 ### I’m currently learning C# (I know C++ and Python)
