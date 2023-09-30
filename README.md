@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/MainPL-C%2B$2B-red)
+![Static Badge](https://img.shields.io/badge/MainLanguage-C%2B$2B-red)
 # Hi, I’m @DanielLMcGuire
 ## I’m interested in developing apps for my company.
 ### I’m currently learning C# (I know C++ and Python)
