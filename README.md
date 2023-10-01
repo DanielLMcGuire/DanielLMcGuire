@@ -8,6 +8,5 @@ I definely didnt tell ChatGPT to generate a github profile readme
 ## ***Contact Info: Text Us (Business) (213) 534-7768 or [Email Me (Personal)](mailto:danielmcguire23@icloud.com)***
 
 <!---
-DanielLMcGuire/DanielLMcGuire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Hi, I'm Guessing You Came Here By Accident?
 --->
