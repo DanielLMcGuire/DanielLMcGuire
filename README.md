@@ -2,7 +2,7 @@
 
 I definely didnt tell ChatGPT to generate a github profile readme
 
-# Hi, I’m: ![Daniel McGuire](@DanielLMcGuire)
+# Hi, I’m: ![Daniel McGuire][@DanielLMcGuire]
 ## I’m interested in: developing apps.
 ### I am experienced with: Python and C#
 ## ***Contact Info: (213) 534-7768 or danielmcguire23@icloud.com***
