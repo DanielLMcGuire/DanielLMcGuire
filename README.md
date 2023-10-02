@@ -1,4 +1,4 @@
-![Static Badge](https://img.shields.io/badge/Main%20Languages%3A-red) ![Static Badge](https://img.shields.io/badge/C%23-green) ![Static Badge](https://img.shields.io/badge/Python-4584b6) 
+![Static Badge](https://img.shields.io/badge/Main%20Languages%3A-red) ![Static Badge](https://img.shields.io/badge/C%23-green) ![Static Badge](https://img.shields.io/badge/C%2B%2B-hotpink) ![Static Badge](https://img.shields.io/badge/Python-4584b6) 
 
 I definely didnt tell ChatGPT to generate a github profile readme
 
