@@ -7,7 +7,7 @@ My Working Hours (Central US Time) (Most Likely):
 
 # Hi, I’m: [Daniel McGuire](https://github.com/DanielLMcGuire)
 ## I’m interested in: developing apps.
-### I am experienced with: Python and C#
+### I am experienced with: Python and C# (I'm learning C++)
 ## ***Contact Info: Text Us (Business) (213) 534-7768 or [Email Me (Personal)](mailto:danielmcguire23@icloud.com)***
 
 <!---
