@@ -3,7 +3,7 @@
 I definely didnt tell ChatGPT to generate a github profile readme
 
 My Working Hours (Central US Time) (Most Likely):
-4:30pm🕟 to 7:00am🕖
+6:30pm🕟 to 9:00am🕖
 
 # Hi, I’m: [Daniel McGuire](https://github.com/DanielLMcGuire)
 ## I’m interested in: developing apps.
