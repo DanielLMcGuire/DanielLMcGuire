@@ -1,5 +1,5 @@
-My Working Hours (Central US Time) (Most Likely):
-6:30pm🕟 to 9:00am🕖
+My Working Hours (Most Likely):
+6:30pm🕟 to 9:00am🕖 (UTC -06:00 / Central US)
 
 <div>
   <a href="https://github.com/DanielLMcGuire">
