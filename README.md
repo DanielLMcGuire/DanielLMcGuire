@@ -1,7 +1,7 @@
 Hi! I'm Daniel.
 
 ![](https://github-readme-stats-fast.vercel.app/api?username=DanielLMcGuire&show_icons=true&theme=transparent) 
-![](https://github-readme-stats-fast.vercel.app/api/top-langs?username=DanielLMcGuire&show_icons=true&theme=transparent)
+![](https://github-readme-stats-fast.vercel.app/api/top-langs?username=DanielLMcGuire&show_icons=true&theme=transparent&hide=glsl,rescript,cmake)
 
 ### Here are my main projects:
 
