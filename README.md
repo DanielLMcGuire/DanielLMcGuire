@@ -6,7 +6,7 @@ Hi! I'm Daniel.
 ### Here are my main projects:
 
 
-- <kbd><img src="https://phasor.pages.dev/assets/logo-small.webp" width="80" height="38"></kbd> [**Phasor**](https://github.com/DanielLMcGuire/Phasor), a simple programming language (stable, still in beta) `nix run github:DanielLMcGuire/Phasor`
-- [**Zorvix**](https://github.com/DanielLMcGuire/Zorvix), my fast web server (with routing, and other features) `npm i zorvix`
+- <kbd><img src="https://phasor.pages.dev/assets/logo-small.webp" width="80" height="38"></kbd> [**Phasor**](https://github.com/DanielLMcGuire/Phasor), a simple programming language (stable, still in beta) `nix run github:DanielLMcGuire/Phasor` **[Website](https://phasor.pages.dev)**
+- [**Zorvix**](https://github.com/DanielLMcGuire/Zorvix), my fast web server (with routing, and other features) `npm i zorvix` **[Website](https://zorvix.pages.dev)**
 
 And the rest:
