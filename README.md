@@ -7,6 +7,6 @@ Hi! I'm Daniel.
 
 
 - [**Phasor**](https://github.com/DanielLMcGuire/Phasor), a simple programming language (somewhat stable, still in beta) `nix run github:DanielLMcGuire/Phasor` **[Website](https://phasor.pages.dev)**
-- [**Zorvix**](https://github.com/DanielLMcGuire/Zorvix), my fast web server (with routing, and other features) `npm i zorvix` **[Website](https://zorvix.pages.dev)**
+- [**Zorvix**](https://codeberg.org/DanielLMcGuire/Zorvix), my fast web server (with routing, and other features) `npm i zorvix` **[Website](https://zorvix.pages.dev)**
 
 And the rest:
